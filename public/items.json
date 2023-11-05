@@ -1,0 +1,27 @@
+{
+    "items": {
+      "bootstrap": [
+        {
+          "id": 1,
+          "title": "Photography",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://links.papareact.com/gi1",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 2,
+          "title": "City Views",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://links.papareact.com/6ff",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 3,
+          "title": "Wild Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://links.papareact.com/7ma",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        }
+      ]
+    }
+  }
