@@ -40,7 +40,9 @@ async function ProductFeed() {
         );
       })}
       </div>
-      {products.slice(5,products.length).map(({ id, title, price, description, category, image }) => {
+      {products
+      .slice(5,products.length)
+      .map(({ id, title, price, description, category, image }) => {
         return (
           <Product
             key={id}
